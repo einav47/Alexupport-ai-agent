@@ -1,0 +1,5 @@
+Input (Selected product ID: B000SSYY88):
+what kinds of cheese can this slicer handle?
+
+Output:
+This cheese slicer is designed to work effectively with medium to hard cheeses, such as cheddar, Gouda, Edam, and Swiss. Most customers found it performs well on firm cheeses and can create thin, even slices suitable for sandwiches or crackers. However, it struggles with soft cheeses like Brie or cream cheese, which tend to clog the slicer or turn mushy; soft cheeses may work better if chilled beforehand. For harder cheeses, the slicer is sturdy and reliable, offering consistent results. It's not adjustable for thickness, so expect thinner slices, though some users mention you could modify the bend for thicker cuts. If slicing soft cheese is a priority, you might want to consider a wire slicer, as that style handles softer cheeses better. Here are some follow-up questions you might consider: What is the slicer's performance like when cutting very hard cheeses, such as Parmesan?; Are there any particular techniques or tips to improve slicing softer cheeses with this product?; Does the slicer create consistent slice thickness, and can the thickness be adjusted?
